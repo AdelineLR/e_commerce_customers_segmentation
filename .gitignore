@@ -1,0 +1,28 @@
+# ======================
+# DATA FILES
+# ======================
+data/
+pictures/
+
+# ======================
+# JUPYTER
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# PYTHON CACHE
+# ======================
+__pycache__/
+*.pyc
+
+# ======================
+# EXPORTS / GENERATED FILES
+# ======================
+*.pptx
+Segmentation_client_projet.zip
+
+# ======================
+# SPECIFIC FILES
+# ======================
+2_Notebook_Analyse_Exploratoire_SQL.ipynb
+3_Notebook_Essais_Clustering.ipynb
